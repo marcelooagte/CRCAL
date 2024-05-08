@@ -1,1 +1,4 @@
-
+----------------------------------------------------------------------------------------------------
+Geração de exe: pip install nuitka => nuitka --standalone --output-dir=saida Robo_backup_web.py
+Lembre-se de que, ao usar a biblioteca nuitka para gerar um exe, é necessário desativar o antivírus.
+----------------------------------------------------------------------------------------------------
